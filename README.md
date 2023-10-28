@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Govind-Markad
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development and software Testing.
 - 🌱 I’m currently learning java sppring boot
 - 💞️ I’m looking to collaborate on backend project
 - 📫 How to reach me govindmmarkad@gmail.com
