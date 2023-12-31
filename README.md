@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Govind-Markad
+- 👋 Hi, I’m @Govind-Markad | Professional QA.
 - 👀 I’m interested in web development and software Testing.
-- 🌱 I’m currently learning java sppring boot
-- 💞️ I’m looking to collaborate on backend project
+- 🌱 I’m currently learning java sppring boot and Automation Testing with Java, Selenium.
+- 💞️ I’m looking to collaborate on Automation Testing projects and web development backend project.
 - 📫 How to reach me govindmmarkad@gmail.com
 
 <!---
